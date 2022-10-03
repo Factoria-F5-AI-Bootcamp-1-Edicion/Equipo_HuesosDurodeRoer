@@ -1,5 +1,4 @@
 #Librerias para trabajar con la carga del modelo y el objeto transformer
-import pickle
 import joblib
 import lightgbm
 
